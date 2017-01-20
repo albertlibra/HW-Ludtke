@@ -1,2 +1,2 @@
 # HW-Ludtke
-write for someone
+For my friend.
