@@ -29,7 +29,7 @@ class Application(tk.Tk):
         self.findbutton.pack(fill='both', expand='yes')
 #         self.findbutton.grid(row=1,column=1)
         self.tt=tk.Text(self,wrap='word')
-        self.tt.insert('1.0',"1.click the button above\n2.choose a file(e.g.two_column.txt)\n3.plot window will show separately")
+        self.tt.insert('1.0',"1.click the button above\n2.choose a file\n(e.g.two_column.txt)\n3.plot window will show separately")
         self.tt.pack(fill='both',expand='yes')
 #         self.tt.grid(row=2,column=1)
 
